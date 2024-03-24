@@ -1,0 +1,14 @@
+baseurl = "https://jitsuzonk.netlify.com"
+languageCode = "ja"
+paginate = 5
+title = "実存K"
+
+# テーマの国際化（i18n）サポート
+defaultContentLanguage = "ja"
+
+# DefaultContentLanguageが zh-cn ja ko のいずれかの場合はhasCJKLanguageをtrueに設定せよ
+# これによりCJK言語の.Summaryと.WordCountが正しく動作するようになる
+hasCJKLanguage = true
+
+# # 使用前に自分のDisqus短縮名に変更せよ
+# disqusShortname = "hugo-theme-stack"

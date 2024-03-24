@@ -1,0 +1,23 @@
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/JItsuzonK"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "bilibili"
+name = "Bilibili"
+url = "https://space.bilibili.com/3546592556615944"
+
+[social.params]
+icon = "brand-bilibili"
+
+[[social]]
+identifier = "x"
+name = "X"
+url = "https://twitter.com/1_____one_____1"
+
+[social.params]
+icon = "brand-x"

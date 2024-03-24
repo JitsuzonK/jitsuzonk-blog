@@ -1,0 +1,45 @@
+favicon = "/favicon.png"
+
+[footer]
+since = 2024
+
+[dateFormat]
+published = "2006年1月2日"
+lastUpdated = "2006年1月2日 3:04 MST"
+
+[sidebar]
+subtitle = "細々と生きる会社員。自分の言葉がどこかの誰かの心を変えられると信じて、黙々とつづります。"
+
+[sidebar.avatar]
+enabled = true
+local = true
+src = "img/avatar.png"
+
+[article]
+math = false
+readingTime = false
+
+## ウィジェット
+[[widgets.homepage]]
+type = "search"
+
+[[widgets.homepage]]
+type = "archives"
+
+[widgets.homepage.params]
+limit = 5
+
+[[widgets.homepage]]
+type = "categories"
+
+[widgets.homepage.params]
+limit = 10
+
+[[widgets.homepage]]
+type = "tag-cloud"
+
+[widgets.homepage.params]
+limit = 10
+
+[[widgets.page]]
+type = "toc"
