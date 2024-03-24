@@ -9,4 +9,3 @@ publish = "public"
 [build.environment]
 GO_VERSION = "1.22.1"
 HUGO_VERSION = "0.124.1"
-TZ = "Asia/Tokyo"
