@@ -1,7 +1,12 @@
+# Referred to the following:
+# - https://docs.netlify.com/configure-builds/file-based-configuration/
+# - https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
+
 [build]
-command = "hugo --gc"
+command = "hugo --gc --minify"
 publish = "public"
 
 [build.environment]
 GO_VERSION = "1.22.1"
 HUGO_VERSION = "0.124.1"
+TZ = "Asia/Tokyo"
