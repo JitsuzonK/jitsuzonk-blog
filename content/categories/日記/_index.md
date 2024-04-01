@@ -1,6 +1,6 @@
 ---
-title: 手順書
-description: 文書のような役割のもの
+title: 日記
+description: 日々の出来事を漫然とつづったもの。
 image:
 
 # Badge style
